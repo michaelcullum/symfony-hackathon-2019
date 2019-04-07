@@ -4,8 +4,8 @@
 
 |                          | Total |
 | ------------------------ | ----- |
-| Merged Pull Requests     | 105   |
-| Proposed Pull Requests   | 181   |
+| Closed Pull Requests     | 107   |
+| Pull Requests Worked On  | 181   |
 | Closed Issues            |  79   |
 | New Issues               | 143   |
 
@@ -18,10 +18,10 @@
 
 |                          | Total |
 | ------------------------ | ----- |
-| Merged Pull Requests     |  34   |
-| Proposed Pull Requests   |  17   |
-| Closed Issues            |   8   |
-| New Issues               |   2   |
+| Merged Pull Requests     |       |
+| Proposed Pull Requests   |       |
+| Closed Issues            |       |
+| New Issues               |       |
 
 ## Diversity
 
